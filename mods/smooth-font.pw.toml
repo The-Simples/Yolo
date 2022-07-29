@@ -1,0 +1,13 @@
+name = "Smooth Font"
+filename = "SmoothFont-mc1.12.2-2.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa8428e19db5e672f7dc6c102e00e960a9333d70"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3783384
+project-id = 285742

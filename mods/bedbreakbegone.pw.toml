@@ -1,0 +1,13 @@
+name = "BedBreakBegone"
+filename = "BedBreakBegone-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38cc15d5fd2214a803d3f010be13f49bd9afac80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3626199
+project-id = 543277

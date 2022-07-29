@@ -1,0 +1,13 @@
+name = "DEUF - Duplicate Entity UUID Fix"
+filename = "deuf-1.1-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "157152e7696347694bba633b63cf3c8b6ee82a14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2576768
+project-id = 296646

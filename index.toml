@@ -1,0 +1,177 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "96ed9546433e382c72759dc3768ad33e1f1e1c9dd544c07a83ed2f255a71e33f"
+
+[[files]]
+file = "mods/README.md"
+hash = "ef97208ff8085d433a9ab130324c2a55d0dd4efa9f702ad4bab73c826ee2ec60"
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "8d1186ecc53aae2bfe20b20ee08c8ae47d4ed5dba17d1e97da1c612b7a7b6c31"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current-mc1.12-1.4.0.jar"
+hash = "fc2d26c2e17641fa4fa9940ac1a4d36351871598efe207507a92429eab2e03ae"
+
+[[files]]
+file = "mods/bedbreakbegone.pw.toml"
+hash = "953a6d6e3f743fe7eee26027cc0c46ec0753bb1653e60686ca53fe56d5d63921"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "6505f3570881b1be5fa40a4c6c1a1ee98e9cf3f798f28da18d9bd5859ad7f149"
+metafile = true
+
+[[files]]
+file = "mods/betterfps.pw.toml"
+hash = "c30a1b8a83001413fd39b2bc20e351b405199fa7858fb9e8be037e850b14d6ad"
+metafile = true
+
+[[files]]
+file = "mods/bettertabs.pw.toml"
+hash = "0c295460464008ac0093b5bcc8c33f4e0550aef0e8abd25264d756565112fe9c"
+metafile = true
+
+[[files]]
+file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
+hash = "f819ee0d431911b173997fdfc3b7d8702ee5a2eb567bebe6526571bb3a820d58"
+metafile = true
+
+[[files]]
+file = "mods/entity-culling.pw.toml"
+hash = "b5fd27fc392bfb1cb796c5d3f06c3a39ee4972ffdb58e1e87dae37109b534bc6"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "bda3c611c0e9c5a5f174964b9682c2223528bc52a90f2d9875cd62513b62bec9"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "fed4992a57d97c3a804e53ba2d4e51b99a333c480bbb534c185f03ae7a6843e7"
+metafile = true
+
+[[files]]
+file = "mods/foamfix-optimization-mod.pw.toml"
+hash = "36981b2be0bc13cecaa765ac80c4ee3bd9d0c0ec36dc083812c08260d2268dfe"
+metafile = true
+
+[[files]]
+file = "mods/had-enough-characters.pw.toml"
+hash = "3b350aadf73568efcb192e07ae4d52385812697bd5116e9f0497a462dfccae95"
+metafile = true
+
+[[files]]
+file = "mods/had-enough-items.pw.toml"
+hash = "7b105b54c7699c0b657defbc6f9a9e83f090435b01f33fec6a445b1fd0ef0fc4"
+metafile = true
+
+[[files]]
+file = "mods/keyboard-wizard.pw.toml"
+hash = "9c68694af26d9008485067d3f2b3f1489b64eeefa44bb76de1b5ea40f02267d2"
+metafile = true
+
+[[files]]
+file = "mods/laggoggles.pw.toml"
+hash = "ba49cd9ac7a4955f8b0524a4f2d3cefb3c8fca30fc2b71205a0a60bbaac34855"
+metafile = true
+
+[[files]]
+file = "mods/lolasm.pw.toml"
+hash = "e1942032798e0dd981e1edc98e1d7287524960a271ac8fba969dbb83320c0f49"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "2e78afd19fc61d97be04ee3e557e3a690f61598cdd995ce9ed46bf12bc198bc3"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "6d02daaa3835da2d5b67f21bdcfcd40470a71f3e3f6a4dd487ed4dab862056d8"
+metafile = true
+
+[[files]]
+file = "mods/multiblocked.pw.toml"
+hash = "c74c1077cad33e34a4f83fa5e9c950b129ec2011b389272c80cf3e0e45c0344f"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "afdf27301ccb39e854762257e2b0b968279c23d946f142b30066b06409ffdd23"
+metafile = true
+
+[[files]]
+file = "mods/particle-culling.pw.toml"
+hash = "6b5635c1f63cd73494390d2eb499e20d93d8988e0679066bc0245a671b23baac"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "afd61af9123a1a15ce1e984f8b09a9099ac848568136a316575bb5ec5fe6fdb8"
+metafile = true
+
+[[files]]
+file = "mods/performant.pw.toml"
+hash = "fd4a3ee3493af21f7f7c0bdd4d45b7d6e06808aeaa440916a355439ab8ee9003"
+metafile = true
+
+[[files]]
+file = "mods/phosphor-forge.pw.toml"
+hash = "11782f89d35f2d63388d34022a061d249ded5625e1a7de5a7becb84a090dd5c2"
+metafile = true
+
+[[files]]
+file = "mods/portalsupercache-0.2.jar"
+hash = "cc9976be536946fb40b27524beb86b019b9d401636281f9c143b4e48750c4ccb"
+
+[[files]]
+file = "mods/randompatches-forge.pw.toml"
+hash = "dd2a3dfd59d5f0ceb34485415fc9f75b61529c21e77553a98e3f1d8e343c3c91"
+metafile = true
+
+[[files]]
+file = "mods/renderlib.pw.toml"
+hash = "2496644fa0991e78311e0285a99e9c51adb9f1c86312bce752e6e1dc4365968c"
+metafile = true
+
+[[files]]
+file = "mods/rltweaker.pw.toml"
+hash = "c983761c70fbc5736d607f3359bc9884b4af82d1c67901cc3541ba12723b8408"
+metafile = true
+
+[[files]]
+file = "mods/sledgehammer.pw.toml"
+hash = "90ebd3b525f6bc243ffb3478c82c1dd36b97df804fb01e30b46d6bf9ef1ca3a1"
+metafile = true
+
+[[files]]
+file = "mods/smooth-font.pw.toml"
+hash = "01fd09cc916c576d3a581c1b781aa164b35eed1ef82ab14cd6788c83f094ce90"
+metafile = true
+
+[[files]]
+file = "mods/surge.pw.toml"
+hash = "074bfb3190441e1cf3f9857e538cd1bf043a5767ef49739fe5a7fef7bd2b551a"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "a069130cac596da1efe44eb604eab6e2d166fd3c4f5db675e56c6bb4c76050e4"
+metafile = true
+
+[[files]]
+file = "mods/tickcentral.pw.toml"
+hash = "422bab705bb2314965c4e6714707b29300506ec6804f0429bb564e8daf8ed030"
+metafile = true
+
+[[files]]
+file = "mods/what-fluid-fix.pw.toml"
+hash = "ee92f0456f45e989618e1226f742ed4ecbbc40f35cd7e9c257df78a96fd18540"
+metafile = true

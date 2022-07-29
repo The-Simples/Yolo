@@ -1,0 +1,13 @@
+name = "Sledgehammer"
+filename = "Sledgehammer-1.12.2-2.0.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a7aae4cc7580b243ed3dad13f5e81213f9c65b85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3820064
+project-id = 319175

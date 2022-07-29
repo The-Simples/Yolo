@@ -1,0 +1,13 @@
+name = "BetterTabs"
+filename = "BetterTabs-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a785a61deac1a6dc45435ef7240a69ae2ce0d6d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3057502
+project-id = 407190
