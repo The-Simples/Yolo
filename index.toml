@@ -18,6 +18,11 @@ file = "mods/alternate-current-mc1.12-1.4.0.jar"
 hash = "fc2d26c2e17641fa4fa9940ac1a4d36351871598efe207507a92429eab2e03ae"
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "dae4c24e21446737bc66c0e015b43f260e57f085c41a61e9026e6aaae25e66c7"
+metafile = true
+
+[[files]]
 file = "mods/bedbreakbegone.pw.toml"
 hash = "953a6d6e3f743fe7eee26027cc0c46ec0753bb1653e60686ca53fe56d5d63921"
 metafile = true
@@ -38,6 +43,11 @@ hash = "0c295460464008ac0093b5bcc8c33f4e0550aef0e8abd25264d756565112fe9c"
 metafile = true
 
 [[files]]
+file = "mods/block-overlay-fix.pw.toml"
+hash = "114c386948616d30520782b06a35f1581a0dd9415743b4c10deb78e5d35ccd89"
+metafile = true
+
+[[files]]
 file = "mods/deuf-duplicate-entity-uuid-fix.pw.toml"
 hash = "f819ee0d431911b173997fdfc3b7d8702ee5a2eb567bebe6526571bb3a820d58"
 metafile = true
@@ -45,6 +55,11 @@ metafile = true
 [[files]]
 file = "mods/entity-culling.pw.toml"
 hash = "b5fd27fc392bfb1cb796c5d3f06c3a39ee4972ffdb58e1e87dae37109b534bc6"
+metafile = true
+
+[[files]]
+file = "mods/entity-desync-fix.pw.toml"
+hash = "24f22f9142170c817da5cce3e506abe878d8035f8a3305d572053247b99ef331"
 metafile = true
 
 [[files]]

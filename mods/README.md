@@ -34,14 +34,17 @@ Both Side won't be labled!!!
 
 ### :wrench: Fix
 
-| Mod                        | Slug                             | Description                                                                                                                                                                                   |
-| -------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RandomPatches              | `randompatches-forge)            | A bunch of miscellaneous patches for Minecraft.                                                                                                                                               |
-| :bookmark:Smooth Font      | `smooth-font)                    | Font Fix                                                                                                                                                                                      |
-| Sledgehammer               | `sledgehammer)                   | Sledgehammer utilises SpongePowered/Mixin to patch issues                                                                                                                                     |
-| :bookmark:WHAT - Fluid Fix | `what-fluid-fix)                 | Water[vapor] Has Appropriate Textures                                                                                                                                                         |
-| BedBreakBegone             | `bedbreakbegone)                 | Replaces Minecraft's checks for respawning at a bed with more sane methods, fixing issues such as not being able to respawn if there are slabs, signs, glowstone, glass, etc. around the bed. |
-| Duplicate Entity UUID Fix  | `deuf-duplicate-entity-uuid-fix) | Fix "Keeping entity minecraft:xxxx that already exists with UUID xxxx" Console Spam                                                                                                           |
+| Mod                         | Slug                             | Description                                                                                                                                                                                   |
+| --------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RandomPatches               | `randompatches-forge)            | A bunch of miscellaneous patches for Minecraft.                                                                                                                                               |
+| :bookmark:Smooth Font       | `smooth-font)                    | Font Fix                                                                                                                                                                                      |
+| Sledgehammer                | `sledgehammer)                   | Sledgehammer utilises SpongePowered/Mixin to patch issues                                                                                                                                     |
+| :bookmark:WHAT - Fluid Fix  | `what-fluid-fix)                 | Water[vapor] Has Appropriate Textures                                                                                                                                                         |
+| BedBreakBegone              | `bedbreakbegone)                 | Replaces Minecraft's checks for respawning at a bed with more sane methods, fixing issues such as not being able to respawn if there are slabs, signs, glowstone, glass, etc. around the bed. |
+| Duplicate Entity UUID Fix   | `deuf-duplicate-entity-uuid-fix) | Fix "Keeping entity minecraft:xxxx that already exists with UUID xxxx" Console Spam                                                                                                           |
+| :bookmark:Block Overlay Fix | `block-overlay-fix)              | Block Overlay Fix is a client-side mod which fixes xray when standing in block that don't cause suffocation (mainly stairs, slabs and leaves with fast graphics).                             |
+| Entity Desync Fix           | `entity-desync-fix)              | Entity Desync Fix fixes that nasty entity motion desync that sometimes happens. This is most notable with arrows and thrown items (and even more notable underwater)                          |
+| AntiGhost                   | `antighost)                      | This mod asks the server to resend all blocks around the player when you type /ghost, within a 4 block radius cube, thus making relogging unneccesary. Or, just press the G key.              |
 
 ### :toolbox: Utilities
 
